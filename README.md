@@ -1,5 +1,4 @@
-# set static IP address 
-
+# ncpa.cpl_Wi-Fi
 
 
 ## netsh
